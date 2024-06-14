@@ -1,4 +1,4 @@
-# Brother TWAIN Installer Fix + Tips
+# Brother TWAIN Installer Fix
 
 This is a batch file I created to repair the Windows 7/8/10+ Brother Print & Scanner installer when it thinks a TWAIN driver is already installed. Several years ago issues popped up at work when trying to repair a Brother scanning issue. Some of the issues I ran across were:
 
